@@ -11,7 +11,7 @@
   - Approval % by Nationality & Institute type
   - Total Decisions by Nationality & Institute type
 
-[Project 1 Repo](https://github.com/drdataSpp/Spp_PowerBI_Student_Visa_Analysis)
+[Project 1 folder](https://github.com/drdataSpp/powerbi/tree/master/Student_Visa_PowerBI)
 
 ## Project 2: Amazon Bestselling Books Analysis
 
@@ -21,7 +21,7 @@
   - Top books by user rating
   - Top books with highest number of reviews
 
-[Project 2 Repo](https://github.com/drdataSpp/Spp_PowerBI_Amazon_Bestselling_Books_Analysis)
+[Project 2 folder](https://github.com/drdataSpp/powerbi/tree/master/Amazon_Bestseller_PowerBI)
 
 [Dashboard 2 Link](https://www.linkedin.com/feed/update/urn:li:activity:6767613077753085952/)
 
@@ -39,23 +39,11 @@
   - Profit by shipping method and category of the product
   - Top 5 customers based on Sales (can be viewed for a particular month, year, or based on a city or state)
 
-[Project 3 Repo](https://github.com/drdataSpp/Spp_PowerBI_US-SuperStore_Analysis)
+[Project 3 folder](https://github.com/drdataSpp/powerbi/tree/master/US_Superstore_PowerBI)
 
 [Dashboard 3 Link](https://www.linkedin.com/feed/update/urn:li:activity:6768897449483497472/)
 
-## Project 4: German EV Cars Analysis
-
-1 This dashboard has six filters: Car's Brand, body type, drive type, Rapid charge feature (Yes/ No), No.of Seats, Market Segment, Plug type.
-
-2 Based on the above filters, the dashboard can be used to view:
-- Top 5 brands in terms of acceleration
-- Top 5 Cars in terms of efficiency
-- Relationship between power & efficiency
-- Top cars in terms of top speed and fast charge
-	
-[Project 4 Repo](https://github.com/drdataSpp/Spp_PowerBI_EV_Cars_Analysis)
-
-## Project 5: COVID-19 Vaccines Analysis
+## Project 4: COVID-19 Vaccines Analysis
 
 1 This dashboard has two filters: Country filter & Vaccine Brand Filter.
 
@@ -68,11 +56,12 @@
 - People fully vaccinated by date
 - Top & Least 10 Countries vaccinated
 
-[Project 5 Repo](https://github.com/drdataSpp/Spp_PowerBI_Covid_Vaccines_Analysis)
+[Project 4 folder](https://github.com/drdataSpp/powerbi/tree/master/Covid_Vax_PowerBI)
 
-[Dashboard 5 Link](https://www.linkedin.com/feed/update/urn:li:activity:6782225542151331840/)
+[Dashboard 4 Link](https://www.linkedin.com/feed/update/urn:li:activity:6782225542151331840/)
 
-## Project 6: Suicide Rate Analysis from 1985 to 2016
+
+## Project 5: Suicide Rate Analysis from 1985 to 2016
 
 1 This dashboard has four filters: Country, Year, Generation and Age
 
@@ -84,11 +73,11 @@
 - People from which generation has committed more suicides.
 - Hovering the mouse over the stacks/ bar chart will show you the actual value.
 
-[Project 6 Repo](https://github.com/drdataSpp/Spp_PowerBI_Suicide_Rates_Analysis)
+[Project 5 folder](https://github.com/drdataSpp/powerbi/tree/master/Global_Suicides_PowerBI)
 
-[Dashboard 6 Link](https://www.linkedin.com/feed/update/urn:li:activity:6787576539505655808/)
+[Dashboard 5 Link](https://www.linkedin.com/feed/update/urn:li:activity:6787576539505655808/)
 
-## Project 7: Video Game Analysis 
+## Project 6: Video Game Analysis 
 
 1 This dashboard has four filters: Game's genre, publish, platform type and release year.
 
@@ -96,11 +85,11 @@
 - Total Sales in Global Market, Europe, North America, Rest of the World and Japan
 - Top 15 Countries in terms of Global Sales.
  
-[Project 7 Repo](https://github.com/drdataSpp/Spp_PowerBI_Video_Games_Analysis)
+[Project 6 Repo](https://github.com/drdataSpp/powerbi/tree/master/Console_Gaming_PowerBI)
 
-[Dashboard 7 Link](https://www.linkedin.com/feed/update/urn:li:activity:6791638515928199168/)
+[Dashboard 6 Link](https://www.linkedin.com/feed/update/urn:li:activity:6791638515928199168/)
 
-## Project 8: Iowa US State's Liquor Sales Analysis 
+## Project 7: Iowa US State's Liquor Sales Analysis 
 
 1 This dashboard has four filters: Zip Code, Category, County, Month name, and Year.
 
@@ -112,9 +101,9 @@
 
 **Note:** Repository for this project is not available as the .pbix file is above 150 mb in size. 
 
-[Dashboard 8 Link](https://www.linkedin.com/feed/update/urn:li:activity:6798765418623451136/)
+[Dashboard 7 Link](https://www.linkedin.com/feed/update/urn:li:activity:6798765418623451136/)
 
-## Project 9: COVID-19 Vaccines Rates Analysis
+## Project 8: COVID-19 Vaccines Rates Analysis
 
 1 This dashboard has one filter: Continent filter.
 
@@ -123,11 +112,11 @@
 - Top 10 vaccinated countries in every continent by vaccination rates.  
 - How much of the population has received first dose and full doses vaccines.
 
-[Project 9 Repo](https://github.com/drdataSpp/Spp_PowerBI_Covid_Vaccines_Rates_Analysis)
+[Dashboard PDF](https://github.com/drdataSpp/powerbi/blob/master/Covid_Vax_PowerBI/PBI%20-%20Vaccine%20Rates%20Analysis.pdf)
 
-[Dashboard 9 Link](https://www.linkedin.com/feed/update/urn:li:ugcPost:6808590098494562304/)
+[Dashboard 8 Link](https://www.linkedin.com/feed/update/urn:li:ugcPost:6808590098494562304/)
 
-## Project 10: USA Hate Crime Analysis
+## Project 9: USA Hate Crime Analysis
 
 1 This dashboard can be used to view:
 - Total crimes, total victims and total offenders from 1991 to 2019.
@@ -140,12 +129,7 @@
 
 2 This dashboard has a map visual in it. The map visual can be used as a filter for the dashboard by clicking on the state.
 
-[Project 10 Repo](https://github.com/drdataSpp/Spp_PowerBI_USA_Hate_Crime_Analysis)
+[Project 9 folder](https://github.com/drdataSpp/powerbi/tree/master/US_Hate_Crime_PowerBI)
 
-**Dashboard 10:** <br><br>
+**Dashboard 9:** <br><br>
 ![Alt Text](https://github.com/drdataSpp/Spp_PowerBI_USA_Hate_Crime_Analysis/blob/master/USA%20Crime%20Analysis%20Dashboard.gif)
-
-## License
-**Copyright 2021 Soorya Prakash Parthiban**
-
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
